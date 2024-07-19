@@ -18,10 +18,9 @@ Herewith We have attached Output of Our Project:
 
 ![image](https://github.com/user-attachments/assets/6f68cd83-b14b-4bec-b91d-89ed74e49fae)
 
+![image](https://github.com/user-attachments/assets/bb69a6ec-f93d-44cf-a449-f592c9bafb23)
+
 ![image](https://github.com/user-attachments/assets/dddcbb3d-4c12-492f-8b59-c79d508fd337)
-
-
-![image](https://github.com/user-attachments/assets/b414ecdf-f895-4b22-8fad-1935168d51fb)
 
 ![Crack Detect](https://github.com/user-attachments/assets/dbfa8ba4-952e-4db7-bdeb-c78a4106330f)
 
