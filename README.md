@@ -14,7 +14,12 @@ Project Content:
 4.Crack detection by Tello Drone
 
 Herewith We have attached Output of Our Project:
+
+
 ![image](https://github.com/user-attachments/assets/6f68cd83-b14b-4bec-b91d-89ed74e49fae)
+
+![image](https://github.com/user-attachments/assets/dddcbb3d-4c12-492f-8b59-c79d508fd337)
+
 
 ![image](https://github.com/user-attachments/assets/b414ecdf-f895-4b22-8fad-1935168d51fb)
 
